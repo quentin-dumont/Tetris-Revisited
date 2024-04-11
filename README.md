@@ -16,3 +16,5 @@ I encourage you to test the robot with a large grid and a huge number of shapes,
 For example, 300 shapes on a 80 per 80 grid. The resolution may take a few seconds.
 
 We also implemented a backup system, if you want to save a game configuration.
+
+Developed by Marilou PREUX, Sélian ARSENE, Matthieu DELILLE and Quentin DUMONT
