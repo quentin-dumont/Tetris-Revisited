@@ -17,4 +17,6 @@ For example, 300 shapes on a 80 per 80 grid. The resolution may take a few secon
 
 We also implemented a backup system, if you want to save a game configuration.
 
+![](docs/demoTetris.gif)
+
 Developed by Marilou PREUX, Sélian ARSENE, Matthieu DELILLE and Quentin DUMONT
