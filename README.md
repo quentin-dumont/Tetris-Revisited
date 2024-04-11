@@ -7,7 +7,7 @@ Launch with :
 $ java -jar dist/jeuAssemblage-1.0.jar 
 
 Shapes can be moved with drag and drop.
-Use the arrow keys <- -> to rotate the shape (Make sure it's possible to rotate it, otherwise the shape will not move)
+Use the arrow keys <- -> to rotate a shape after clicking on it (Make sure it's possible to rotate it, otherwise the shape will not move)
 
 When you think you have found the best arrangement, click on 'Terminer' and look at the solution proposed by the robot.
 Sometimes, you might beat it, it doesn't always find the best solution.
